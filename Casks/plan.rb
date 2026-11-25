@@ -1,7 +1,7 @@
 cask "plan" do
   # version and sha256 are rewritten by the release workflow in zeus-12/plan.
-  version "0.6.0"
-  sha256 "52b7769144fad2e64f40317a49126cae54fca96772291081c6c4499391fa4118"
+  version "0.6.2"
+  sha256 "a676a73b5011d7a61aa31f3be207d805cb50f18b2e08733cb51a93594d39df2a"
 
   url "https://github.com/zeus-12/plan/releases/download/v#{version}/Plan-#{version}-arm64.dmg"
   name "Plan"
